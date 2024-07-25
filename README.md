@@ -46,7 +46,8 @@ REGIONAL TRENDS:
 5.	Though Kerala ranks 17th in area under cultivation- its area use efficiency is high ranking top 
 
 SEASONAL ANALYSIS:
-1.	Crop Count 
+1.	Crop Count
+   
 a.	Whole year = 105 crops
 
 b.	Kharif = 82
@@ -59,10 +60,12 @@ e.	Winter = 28
 
 f.	Autumn = 25
 
-3.	Area Allocated Season wise in the order of - 
+2.	Area Allocated Season wise in the order of -
+   
 Karif , Rabi , Whole year, winter, summer, autumn – thus autumn has the least area allocated while Kharif has the largest area allocated
 
-5.	Crops – 
+4.	Crops –
+   
 a.	Autumn = Rice is the largest producing crop from Bihar
  
 b.	Kharif = Sugarcane is the largest producing crop from UP 
