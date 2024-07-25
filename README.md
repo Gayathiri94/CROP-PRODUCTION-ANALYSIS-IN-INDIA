@@ -48,7 +48,7 @@ CSV: Database
 
 #### SEASONAL ANALYSIS:
 
-1.	Crop Count
+###### 1.	Crop Count
    
 a.	Whole year = 105 crops
 
@@ -62,11 +62,11 @@ e.	Winter = 28
 
 f.	Autumn = 25
 
-2.	Area Allocated Season wise in the order of -
+###### 2.	Area Allocated Season wise in the order of -
    
 Karif , Rabi , Whole year, winter, summer, autumn – thus autumn has the least area allocated while Kharif has the largest area allocated
 
-3.	Crops –
+###### 3.	Crops –
    
 a.	Autumn = Rice is the largest producing crop from Bihar
  
