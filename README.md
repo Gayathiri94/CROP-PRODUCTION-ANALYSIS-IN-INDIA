@@ -6,7 +6,9 @@ This project analyzes crop production in India using Power BI to provide insight
 Tools Used:
 
 Power BI: For data visualization and interactive dashboard creation.
+
 Pandas: For Preprocessing
+
 Excel: Database 
 
 INSIGHTS:
