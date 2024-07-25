@@ -47,18 +47,29 @@ REGIONAL TRENDS:
 
 SEASONAL ANALYSIS:
 1.	Crop Count 
-a.	Whole year = 105 crops 
+a.	Whole year = 105 crops
+
 b.	Kharif = 82
+
 c.	Rabi = 68
+
 d.	Summer = 31
+
 e.	Winter = 28
+
 f.	Autumn = 25
-2.	Area Allocated –
-a.	Karif , Rabi , Whole year, winter, summer, autumn – thus autumn has the least area allocated while Kharif has the largest area allocated 
-3.	Crops – 
-a.	Autumn = Rice is the largest producing crop from Bihar 
+
+3.	Area Allocated Season wise in the order of - 
+Karif , Rabi , Whole year, winter, summer, autumn – thus autumn has the least area allocated while Kharif has the largest area allocated
+
+5.	Crops – 
+a.	Autumn = Rice is the largest producing crop from Bihar
+ 
 b.	Kharif = Sugarcane is the largest producing crop from UP 
+
 c.	Rabi = Wheat is the largest producing crop from UP
+
 d.	Summer & Winter  = Rice is the largest producing crop from West Bengal
+
 e.	Whole year = Coconut is the largest producing crop from Kerala
 
