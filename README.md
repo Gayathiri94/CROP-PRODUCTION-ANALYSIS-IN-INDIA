@@ -9,7 +9,7 @@ Power BI: For data visualization and interactive dashboard creation.
 
 Pandas: For Preprocessing
 
-Excel: Database 
+CSV: Database 
 
 INSIGHTS:
 
