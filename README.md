@@ -11,7 +11,7 @@ Pandas: For Preprocessing
 
 CSV: Database 
 
-INSIGHTS:
+#### INSIGHTS:
 
 1.	Total Production = 141.2 bn
 2.	Crop produced = 124 crops
@@ -20,7 +20,7 @@ INSIGHTS:
 5.	Total area cultivated = 2.95 bn
 6.	Overall Area use efficiency = 47.80
 
-PRODUCTION ANALYSIS:
+#### PRODUCTION ANALYSIS:
 1.	Year wise – gradual increase with peak at 2011 and then major decline at 2015
 2.	Coconut is the highest producing crop at 129 bn – followed by Sugarcane at 5.5 bn and Rice at 1.6 bn- yam is the least producing crop 
 3.	Kerala is the highest producing state – producing coconut at 97.8 bn followed by Andhra Pradesh producing coconut at 16.8 bn and then Tamil Nadu producing coconut at 10.9 bn 
@@ -28,7 +28,7 @@ PRODUCTION ANALYSIS:
 5.	Season wise – whole year production is high with 134.4 bn followed by Kharif season with 4.03 bn and Rabi with 2.05 bn 
 6.	2011,2013 and 2006 are the top 3 producing years
 
-   AREA ANALYSIS:
+#### AREA ANALYSIS:
 1.	Area under cultivation – decreased over time with a huge dip at 2015
 2.	Area use efficiency gradually increased from 1997 with peak at 2011 at 93.14 but dipped at 2015 at 1.51 
 3.	In 2015 – area under cultivation as well as Area use efficiency both declined – since only Odissa and Sikkim alone contributed 
@@ -38,14 +38,14 @@ PRODUCTION ANALYSIS:
 7.	Yield per hectare of crops – coconut has highest yield per hectare at 4579 followed by sugarcane with a huge gap at 72 and Tapioca at 29 – Yam has the least yield per hectare 
 8.	Rice occupies Largest area under cultivation followed by Wheat and Cotton – Dry fruit is the least area occupied crop 
 
-REGIONAL TRENDS:
+#### REGIONAL TRENDS:
 1.	Tamil Nadu has higest crop diversity with 87 crops followed by Andhra Pradesh at 69 and Telangana with 65 
 2.	Jharkhand has least crop diversity with 12 crops 
 3.	Overall production Kerala stands 1st – but in 2011 and 2013Tamil Nadu’s Coimbatore’s Coconut production was highest And in1997 Tamil Nadu’s Villupuram’s Sugarcane production was highest – but mostly except for 3 years Kerala stands 1st 
 4.	Though Rajasthan ranks 4th in area under cultivation – in area use efficiency it ranks 33 – at last – area use efficiency is least – but in production wise it ranks 18th 
 5.	Though Kerala ranks 17th in area under cultivation- its area use efficiency is high ranking top 
 
-SEASONAL ANALYSIS:
+#### SEASONAL ANALYSIS:
 
 1.	Crop Count
    
